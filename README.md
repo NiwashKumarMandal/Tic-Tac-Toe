@@ -2,7 +2,7 @@
 
 # Tic-Tac-Toe
 ## Dive into the project
-[<img src="./images/logo.png" width="65px" alt="tic-tac-toe-icon">](https://niwashkumarmandal.github.io/TicTacToe/)<span><em>(Tap on Tic-Tac-Toe icon to view the project)</em></span>
+[<img src="./images/logo.png" width="65px" alt="tic-tac-toe-icon">](https://niwashkumarmandal.github.io/Tic-Tac-Toe/)<span><em>(Tap on Tic-Tac-Toe icon to view the project)</em></span>
 
 ## Overview:
 A captivating web application developed with HTML, CSS, and JavaScript, presenting the timeless game of Tic-Tac-Toe. Players engage in strategic matches, taking turns to mark their symbols on a grid. The user-friendly interface enables seamless gameplay, providing an immersive experience for players of all skill levels.
